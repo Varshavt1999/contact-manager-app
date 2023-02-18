@@ -1,15 +1,27 @@
 {
   "contacts": [
     {
-      "id": "0c3ddefc-c719-41ca-abb5-4e0dd860dc53",
-      "name": "ajith",
-      "email": "ajith@gmail.com",
+      "id": "f9394d96-acce-4c91-a18e-2ae713976a89",
+      "name": "thushara",
+      "email": "thushara@gmail.com",
       "image": "../../assets/images/blog-image.png"
     },
     {
-      "id": "5a106962-ab25-4ca7-91b6-e97b861030dc",
-      "name": "abhijith t p",
-      "email": "abhijith@steyp.com",
+      "id": "8911a5e0-5315-4adb-94ed-cdd6286ac14c",
+      "name": "albin",
+      "email": "albin@gmail.com",
+      "image": "../../assets/images/blog-image.png"
+    },
+    {
+      "id": "7710214b-0371-4533-bbb4-c893276960e4",
+      "name": "moosa",
+      "email": "moosa@gmail.com",
+      "image": "../../assets/images/blog-image.png"
+    },
+    {
+      "id": "097a1402-c4b2-4635-8fbf-664d635279dd",
+      "name": "varsha",
+      "email": "sobir@talrop.com",
       "image": "../../assets/images/blog-image.png"
     }
   ]
