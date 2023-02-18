@@ -1,0 +1,16 @@
+{
+  "contacts": [
+    {
+      "id": "0c3ddefc-c719-41ca-abb5-4e0dd860dc53",
+      "name": "ajith",
+      "email": "ajith@gmail.com",
+      "image": "../../assets/images/blog-image.png"
+    },
+    {
+      "id": "5a106962-ab25-4ca7-91b6-e97b861030dc",
+      "name": "abhijith t p",
+      "email": "abhijith@steyp.com",
+      "image": "../../assets/images/blog-image.png"
+    }
+  ]
+}
